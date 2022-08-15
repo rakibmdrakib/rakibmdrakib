@@ -1,6 +1,6 @@
 Hi there 👋, my name is <br/> 
-# Alamin Sarker
-## I am a Full Stack Developer (MERN) 
+# Rakib
+## I am a Beginner at Python Programming
 
 I am an enthusiastic developer who like to explore new technologies in order to keep a pace with the competitive world.
 
@@ -8,13 +8,13 @@ I am an enthusiastic developer who like to explore new technologies in order to 
 - 🌱 I’m currently learning React Native 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about React.js Development, MERN Stack Development 
-- 📫 How to reach me: alamin.sarker4241@gmail.com 
+- 📫 How to reach me: rakibmdrakib@gmail.com 
 - 😄 Pronouns: Developer 
 - ⚡ Fun fact: staying with new things 
 
 <!-- profile view -->
 
-![Profile views](https://gpvc.arturio.dev/AlaminSarkerFRII)
+![Profile views](https://gpvc.arturio.dev/rakibmdrakib)
 
 ### Top Technologies-
 
